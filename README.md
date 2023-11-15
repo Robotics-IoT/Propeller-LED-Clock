@@ -21,3 +21,7 @@ Time setting with 38KHz IR Remote Control Transmitter
 - PCB
 - Magnet
 - DC Motor
+
+## Final Look
+
+![](Final_Look.jpg)
